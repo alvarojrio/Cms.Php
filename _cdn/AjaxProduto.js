@@ -7,7 +7,7 @@ cache = window.storage.clear();
 
 
 
-$(document).on('click', '.ajaxmin a', function (e) {
+$(document).on('click', '.ajaxmin button', function (e) {
 
 
     storage.setItem('id', $(this).attr('data-type'));

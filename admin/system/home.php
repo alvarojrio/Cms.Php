@@ -103,7 +103,7 @@
         
         
         <section>
-            <h1 class="boxsubtitle">Calculo do mes (<?php echo date('01/m/Y', strtotime('+1 months', strtotime(date('Y-m-d')))); ?>)</h1>
+            <h1 class="boxsubtitle">Calculo do proxim mes(<?php echo date('01/m/Y', strtotime('+1 months', strtotime(date('Y-m-d')))); ?>)</h1>
 
             
 

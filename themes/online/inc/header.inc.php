@@ -13,13 +13,16 @@
 
         <nav class="main-nav">
 
+          
+            
+            
             <ul class="top">
                 <li><a href="<?= HOME ?>" title="">Home</a></li>
                 
                 <li><a href="<?= HOME ?>" title="">TESTE</a></li>
                 <li><a href="<?= HOME ?>" title="">TESTE</a></li>
                 <li><a href="<?= HOME ?>" title="">TESTE</a></li>
-                <li><a href="<?= HOME ?>" title="">TESTE</a></li>
+                <li style="display: none;"><a href="<?= HOME ?>" title="">TESTE</a></li>
 
                
 

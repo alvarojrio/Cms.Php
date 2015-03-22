@@ -1,6 +1,23 @@
 /*GERAL DO SITE*/
 body{background: url(../images/body_bg.png) center center repeat}
 
+.widtt{
+    
+      width: 267px;
+  height: 258px;
+  float: left;
+  padding-left: 8px;
+  margin: 9px 8px 8px 8px;
+  border: 1px solid #DADADA;
+}
+.ajaxmin{
+    
+  width: 258px; 
+           
+  color: #C3C3C3;
+  margin-top: 18px;
+  float: left;  
+}
 .container{width: 968px; margin: 0 auto;}
 .site-container{width: 908px; background: #FBFBFB; padding: 30px; margin: 0 auto;}
 .img{background: #333 url(../images/white_logo.png) center center no-repeat; background-size: 70%;}
@@ -26,15 +43,15 @@ body{background: url(../images/body_bg.png) center center repeat}
 /*HEADER SITE*/
 /*logo*/
 .main-header{width: 100%; min-height: 200px; background: url(../images/header_bg.png) center center repeat-x; position: relative;}
-.main-header hgroup{float: left; width: 329px; height: 85px; background: url('../images/header_logo.png') center center no-repeat; margin: 30px 0 0 0; font-size: 0px;}
+.main-header hgroup{float: left; width: 690px; height: 85px; background: url('../images/header_logo.png') center center no-repeat; margin: 34px 0 0 0; font-size: 16px;}
 
 /*banner*/
-.header-banner{float: right; width: 468px; height: 60px; background: #eee; margin: 50px 0 0 0}
+.header-banner{float: right; width: 407px; height: 60px; background: #eee; margin: 50px 0 0 0}
 
 /*navegação*/
 .main-nav{float: left; width: 968px; display: block;}
 .main-nav h3{font-size: 0px;}
-.main-nav .top{float: left; width: 968px; position: absolute; bottom: 0px;}
+.main-nav .top{float: left; width: 976px; position: absolute; bottom: 0;margin: 0px;}
 .main-nav .top li{float: left; border-left: 1px solid #333; padding-left: 13px; margin: 13px 13px 13px 0; position: relative;}
 .main-nav .top li:first-child{border: none; margin-left: 0; padding-left: 0;}
 .main-nav .top li:last-child{margin: 10px 0; border: none}

@@ -11,14 +11,18 @@ $Session = new Session;
         <!--[if lt IE 9]>
             <script src="../../_cdn/html5.js"></script>
          <![endif]-->   
-
+        <title >Programador php</title>
         <?php
         $Link = new Link;
         $Link->getTags();
         ?>
 
         <link rel="stylesheet" href="<?= INCLUDE_PATH; ?>/css/reset.css">
-        <link rel="stylesheet" href="<?= INCLUDE_PATH; ?>/css/style.css">
+        <link rel="stylesheet" href="<?= INCLUDE_PATH; ?>/css/style.css"> 
+        <link rel="stylesheet" href="<?= INCLUDE_PATH; ?>/css/bootstrap-theme.css">
+        <link rel="stylesheet" href="<?= INCLUDE_PATH; ?>/css/bootstrap-theme.min.css">
+        <link rel="stylesheet" href="<?= INCLUDE_PATH; ?>/css/bootstrap.css">
+        <link rel="stylesheet" href="<?= INCLUDE_PATH; ?>/css/bootstrap.min.css">
         <link rel="stylesheet" href="<?= HOME; ?>/_cdn/shadowbox/shadowbox.css">
         <link href='http://fonts.googleapis.com/css?family=Baumans' rel='stylesheet' type='text/css'>
 
@@ -44,7 +48,11 @@ $Session = new Session;
     <script src="<?= HOME ?>/_cdn/_plugins.conf.js"></script>
     <script src="<?= HOME ?>/_cdn/_scripts.conf.js"></script>
     <script src="<?= HOME ?>/_cdn/combo.js"></script>    
-    <script src="<?= HOME ?>/_cdn/AjaxProduto.js"></script>
+    <script src="<?= HOME ?>/_cdn/AjaxProduto.js"></script> 
+    
+    <script src="<?= HOME ?>/_cdn/bootstrap.js"></script>
+    <script src="<?= HOME ?>/_cdn/bootstrap.min.js"></script>    
+    <script src="<?= HOME ?>/_cdn/npm.js"></script>
 </html>
 <?php
 ob_end_flush();

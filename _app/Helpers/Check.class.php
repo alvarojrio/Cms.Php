@@ -285,8 +285,8 @@ if($read->getResult()) {
             if ($datBD[0] == $datFN[0] && $datBD[1] == $datFN[1] ):
 
                 $mix1 = $rd['qnt_vendas'] / $readFull->getResult()[0]['TotalVendas'];
-          
-            echo $mix1;
+          ///Criei esse metodo para retorna nome, pelo id.
+           echo "<P>".Check::RecorverName($rd['id_prod'] )."</P>". $mix1;
          
           
           endif;

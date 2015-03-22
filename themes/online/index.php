@@ -8,7 +8,7 @@ $tpl_empresa = $View->Load('article_prod');
     <div class="container">
 
         <div class="slidecount">
-            <img src="<?= INCLUDE_PATH; ?>/images/fundo-slide-2.JPG"  />          
+            <img style="margin-left:100px"src="<?= INCLUDE_PATH; ?>/images/fundo-slide-2.JPG"  />          
         </div>
 
         <div class="slidenav">
