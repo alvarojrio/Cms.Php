@@ -7,7 +7,7 @@ require('../../_app/Config.inc.php');
 //RECIPITORES DO DADOS VIA AJAX
 //
 //
-$Ar['id_prod'] = $_POST['id'];
+$Ar['id_prod'] = $_POST['acao'];
 $Ar['mes'] = date('Y-m-d');
 //Possivel mente pode ser alterando para qnt de venda
 $Ar['qnt_vendas'] = "1";
@@ -46,6 +46,5 @@ else:
     $Cred->ExeCreate("relatorio", $Ar);
    
     endif;
-   
    
  
