@@ -1,8 +1,11 @@
 **Meu CMS PHP - Uma Alternativa Simples ao WordPress**
-Descrição do Projeto
+
+**Descrição do Projeto**
+
 Este é um projeto de Content Management System (CMS) desenvolvido em PHP que visa oferecer uma alternativa simplificada ao WordPress. O objetivo principal é fornecer uma plataforma de gerenciamento de conteúdo leve, flexível e fácil de usar para criar e manter websites dinâmicos.
 
 **Recursos Principais**
+
 Simplicidade: Nosso CMS é projetado com simplicidade em mente. Ele oferece um conjunto básico de recursos de gerenciamento de conteúdo sem a complexidade excessiva encontrada em outras soluções.
 
 **Personalização:** Você pode personalizar facilmente o design e a funcionalidade do seu site, adicionando módulos, temas e plugins personalizados.
