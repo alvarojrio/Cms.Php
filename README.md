@@ -22,14 +22,20 @@ Clone este repositório em seu servidor web:
 bash
 Copy code
 git clone git@github.com:alvarojrio/Cms.Php.git
+
 Configure seu ambiente de desenvolvimento PHP e servidor web (por exemplo, Apache, Nginx).
+
 
 Configure as informações de conexão com o banco de dados no arquivo de configuração __APP/Config.inc.
 
+
 Acesse seu CMS em http://localhost/admin utilizando as credenciais padrão:
+
 
 Login: alvaro@online.com.br.
 Senha: 123456.
+
+
 
 Siga as instruções no painel de administração para configurar o site, incluindo a escolha do tema do site e a configuração do banco de dados.
 
