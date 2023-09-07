@@ -1,3 +1,5 @@
+**Este projeto tem uma trajetória de mais de 8 anos. Embora tenha sido publicado no Git há 8 anos, sua concepção remonta a uma solução que comecei a usar há uma década atrás.**
+
 **Meu CMS PHP - Uma Alternativa Simples ao WordPress**
 
 **Descrição do Projeto**
@@ -47,3 +49,54 @@ Ficaríamos felizes com contribuições para tornar este CMS ainda melhor. Sinta
 
 **Licença**.
 Este projeto é licenciado sob a Licença MIT.
+
+
+-----------------------------------------------
+
+**My PHP CMS - A Simple Alternative to WordPress**
+
+**Project Description**
+
+This is a Content Management System (CMS) project developed in PHP that aims to provide a simplified alternative to WordPress. The main goal is to offer a lightweight, flexible, and user-friendly content management platform for creating and maintaining dynamic websites.
+
+**Key Features**
+
+**Simplicity:** Our CMS is designed with simplicity in mind. It offers a basic set of content management features without the excessive complexity found in other solutions.
+
+**Customization:** You can easily customize the design and functionality of your website by adding custom modules, themes, and plugins.
+
+**Security:** We have implemented recommended security practices to protect your website against common web threats.
+
+**Performance:** Our CMS is optimized for fast performance, ensuring that your website loads quickly and provides an efficient user experience.
+
+**Installation**
+
+To get started, follow these simple steps:
+
+Clone this repository to your web server:
+
+bash
+
+Copy code
+
+git clone git@github.com:alvarojrio/Cms.Php.git
+Configure your PHP development environment and web server (e.g., Apache, Nginx).
+
+Configure the database connection information in the __APP/Config.inc configuration file.
+
+Access your CMS at http://localhost/admin using the default credentials:
+
+Login: alvaro@online.com.br Password: 123456
+Follow the instructions in the administration panel to set up the website, including choosing the website theme and configuring the database.
+
+**Database Backup**
+
+To create a backup of the database, you can use the __DBSA_BACKUP directory. Backups can be saved in .SQL or .TEXT format.
+
+**Contribution**
+
+We would welcome contributions to make this CMS even better. Feel free to submit pull requests, report issues, or suggest improvements.
+
+**License**
+
+This project is licensed under the MIT License.
