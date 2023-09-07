@@ -1,5 +1,7 @@
 **Este projeto tem uma trajetória de mais de 8 anos. Embora tenha sido publicado no Git há 8 anos, sua concepção remonta a uma solução que comecei a usar há uma década atrás.**
 
+**This project has a history of over 8 years. Although it was published on Git 8 years ago, its conception dates back to a solution I began using a decade ago.**
+
 **Meu CMS PHP - Uma Alternativa Simples ao WordPress**
 
 **Descrição do Projeto**
