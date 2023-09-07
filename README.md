@@ -28,15 +28,16 @@ Configure as informações de conexão com o banco de dados no arquivo de config
 
 Acesse seu CMS em http://localhost/admin utilizando as credenciais padrão:
 
-Login: alvaro@online.com.br
-Senha: 123456
+Login: alvaro@online.com.br.
+Senha: 123456.
+
 Siga as instruções no painel de administração para configurar o site, incluindo a escolha do tema do site e a configuração do banco de dados.
 
-**Backup do Banco de Dados**
+**Backup do Banco de Dados**.
 Para fazer um backup do banco de dados, você pode utilizar o diretório __DBSA_BACKUP. Os backups podem ser salvos em formato .SQL ou .TEXT.
 
-**Contribuição**
+**Contribuição**.
 Ficaríamos felizes com contribuições para tornar este CMS ainda melhor. Sinta-se à vontade para enviar pull requests, relatar problemas ou sugerir melhorias.
 
-**Licença**
+**Licença**.
 Este projeto é licenciado sob a Licença MIT.
